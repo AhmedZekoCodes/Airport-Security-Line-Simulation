@@ -49,18 +49,20 @@ The simulation is driven by a text file that specifies:
 
 ## How to Compile
 ```terminal
-    javac *.java
+javac *.java
 ```
 
 ## How to Run
-    java Main
+```terminal
+java Main
+```
 
 It will prompt you to enter the file name:
 ```terminal
-    <filename>.txt
+<filename>.txt
 ```
 
 Example:
 ```terminal
-    a3q1data1.txt
+a3q1data1.txt
 ```
